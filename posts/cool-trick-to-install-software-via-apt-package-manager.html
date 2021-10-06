@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Arjun Yadav - Cool trick to install software via apt package manager</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta charset="utf-8">
+	<link rel="alternate" type="application/atom+xml" title="RSS Feed" href="../rss.xml">
+	<link rel="stylesheet" href="../style.css" >
+	<link rel="shortcut icon" href="../images/favicon.png">
+</head>
+<body>
+<div id="container">
+
+<header>
+<h1>Arjun Yadav's Webpage</h1>
+<hr>
+<nav><ul><a href="../index.html"><li>🏠 Home</li></a><a href="../archive.html"><li>✍️ Blog</li></a><a href="../pages/contact.html"><li>☎️ Contact</li></a><a href="https://www.paypal.com/paypalme/arjunryadav"><li>💸 Donate</li></a></ul></nav>
+<h2>Cool trick to install software via apt package manager</h2>
+<div id="byline" style="color:green;font-size:18px;">03-10-2021</div>
+</header>
+
+<article>
+<html lang="en">
+<body>
+<p>
+<p>to install software via apt in debian and debian based distros you have to type “sudo apt install foo” however there are two problems with this: <br/> <br/> 1- you have to know the exact name of the package you want to install <br/> <br/></p>
+<p>2- you have to type “sudo apt install foo” which is somewhat long. <br/> <br/> there is a cool trick which someone posted on reddit.(and i can’t remember the exact source at this moment) <br/> <br/></p>
+<p>paste this code in terminal: <br/> <br/> <code> apt-cache search "" | sort | cut –delimiter " " –fields 1 | fzf –multi –cycle –reverse –preview “apt-cache show {1}” –preview-window=:57%:wrap:rounded:hidden –bind=space:toggle-preview | xargs -r sudo apt install -y </code> <br/> <br/> <a href=../pix/fapt.png><img class=resmid src="../pix/fapt.png" alt="fapt"></a> <br/> </br></p>
+<p>(ofcourse you can make a simple script or make alias of this big command to make it short) <br/> <br/> technically he just added apt repository with fuzzy finder, but no one had ever thought of doing this simple thing, and that’s why i’m thankful to the guy who originally posted this on reddit.</p>
+<p><br/> <br/> prerequisite: <br/> <br/> you should have fzf installed in order to use it.</p>
+<br/> <br/>
+</body>
+</html>
+</article>
+<hr>
+<nav><ul><a href="../index.html"><li>🏠 Home</li></a><a href="../archive.html"><li>✍️ Blog</li></a><a href="https://www.paypal.com/paypalme/arjunryadav"><li>💸 Donate</li></a></ul></nav>
+
+</div>
+</body>
+</html>
