@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Arjun Yadav - youtube dl is slow? try this.</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta charset="utf-8">
+	<link rel="alternate" type="application/atom+xml" title="RSS Feed" href="../rss.xml">
+	<link rel="stylesheet" href="../style.css" >
+	<link rel="shortcut icon" href="../images/favicon.png">
+</head>
+<body>
+<div id="container">
+
+<header>
+<h1>Arjun Yadav's Webpage</h1>
+<hr>
+<nav><ul><a href="../index.html"><li>🏠 Home</li></a><a href="../archive.html"><li>✍️ Blog</li></a><a href="../pages/contact.html"><li>☎️ Contact</li></a><a href="https://www.paypal.com/paypalme/arjunryadav"><li>💸 Donate</li></a></ul></nav>
+<h2>youtube dl is slow? try this.</h2>
+<div id="byline" style="color:green;font-size:18px;">28-12-2021</div>
+</header>
+
+<article>
+<p>From last month or slow, for some reason, the speed of downloading youtube videos via youtube-dl has reduced substantially. I’m receiving no more than 50 Kb/s. Many have shared the same problem on different forums. Till it is fixed by youtube-dl team, We can try a small fix. The solution here is to use Aria2c. Now what is Aria2c? It is a small command line program which increases your download speed. I may be wrong but as far as i understand it makes multiple connections to a particular server to download a file, in this way the speed can be increased by more than 4 times. (Maximum speed depends on your internet connection.)</p>
+<p>Now the way you usually download a video using youtube-dl is this:</p>
+<p><code>youtube-dl -f best https://www.youtube.com/watch?v=dQw4w9WgXcQ</code></p>
+<p>But this way you are probably receiving less speed. So try this:</p>
+<p><strong>Note</strong>: Download Aria2 before using this. (In debian repos the program is available by the name of Aria2 not Aria2c)</p>
+<p><code>youtube-dl --external-downloader aria2c --external-downloader-args '-c -j 3 -x 3 -s 3 -k 1M' -f best https://www.youtube.com/watch?v=dQw4w9WgXcQ</code></p>
+<p>Using the above way you will receive the increased speed. The way we achieved it was simply using Aria2c as external downloader for youtube-dl.</p>
+</article>
+<hr>
+<nav><ul><a href="../index.html"><li>🏠 Home</li></a><a href="../archive.html"><li>✍️ Blog</li></a><a href="https://www.paypal.com/paypalme/arjunryadav"><li>💸 Donate</li></a></ul></nav>
+
+</div>
+</body>
+</html>

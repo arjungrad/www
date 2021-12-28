@@ -9,6 +9,19 @@
 <atom:link href="https://arjunyadav.xyz/rss.xml" rel="self" type="application/rss+xml" />
 
 <item>
+<title>youtube dl is slow? try this.</title>
+<guid>https://arjunyadav.xyz/posts/youtube-dl-is-slow?-try-this..html</guid>
+<pubDate>Tue, 28 Dec 2021 16:07:15 +0530</pubDate><description><![CDATA[<p>From last month or slow, for some reason, the speed of downloading youtube videos via youtube-dl has reduced substantially. I’m receiving no more than 50 Kb/s. Many have shared the same problem on different forums. Till it is fixed by youtube-dl team, We can try a small fix. The solution here is to use Aria2c. Now what is Aria2c? It is a small command line program which increases your download speed. I may be wrong but as far as i understand it makes multiple connections to a particular server to download a file, in this way the speed can be increased by more than 4 times. (Maximum speed depends on your internet connection.)</p>
+<p>Now the way you usually download a video using youtube-dl is this:</p>
+<p><code>youtube-dl -f best https://www.youtube.com/watch?v=dQw4w9WgXcQ</code></p>
+<p>But this way you are probably receiving less speed. So try this:</p>
+<p><strong>Note</strong>: Download Aria2 before using this. (In debian repos the program is available by the name of Aria2 not Aria2c)</p>
+<p><code>youtube-dl --external-downloader aria2c --external-downloader-args '-c -j 3 -x 3 -s 3 -k 1M' -f best https://www.youtube.com/watch?v=dQw4w9WgXcQ</code></p>
+<p>Using the above way you will receive the increased speed. The way we achieved it was simply using Aria2c as external downloader for youtube-dl.</p>]]></description>
+</item>
+
+
+<item>
 <title>Buy Now Pay Later</title>
 <guid>https://arjunyadav.xyz/posts/buy-now-pay-later.html</guid>
 <pubDate>Mon, 20 Dec 2021 12:14:34 +0530</pubDate><description><![CDATA[<p>Lately I’ve been getting lot of calls from my bank telling me to get a free credit card. Not only my bank but also the banks in which i don’t even have account are also offering me free credit card. And not only banks but also some new fancy companies have approached me for interest free virtual credit card. For a moment i thought my country is turning into some welfare state where they are lending money to poor people for free. It happens often times in free market economy that the marketing department pitch the deal in such a way that it sounds like the company is literally giving stuff for free. They make it sound like the company doesn’t exist for profit motive but solely for social welfare.</p>
