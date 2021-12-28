@@ -9,8 +9,8 @@
 <atom:link href="https://arjunyadav.xyz/rss.xml" rel="self" type="application/rss+xml" />
 
 <item>
-<title>youtube dl is slow? try this.</title>
-<guid>https://arjunyadav.xyz/posts/youtube-dl-is-slow?-try-this..html</guid>
+<title>Increase Youtubedl Speed</title>
+<guid>https://arjunyadav.xyz/posts/increase-youtubedl-speed.html</guid>
 <pubDate>Tue, 28 Dec 2021 16:07:15 +0530</pubDate><description><![CDATA[<p>From last month or slow, for some reason, the speed of downloading youtube videos via youtube-dl has reduced substantially. I’m receiving no more than 50 Kb/s. Many have shared the same problem on different forums. Till it is fixed by youtube-dl team, We can try a small fix. The solution here is to use Aria2c. Now what is Aria2c? It is a small command line program which increases your download speed. I may be wrong but as far as i understand it makes multiple connections to a particular server to download a file, in this way the speed can be increased by more than 4 times. (Maximum speed depends on your internet connection.)</p>
 <p>Now the way you usually download a video using youtube-dl is this:</p>
 <p><code>youtube-dl -f best https://www.youtube.com/watch?v=dQw4w9WgXcQ</code></p>
