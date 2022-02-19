@@ -62,7 +62,7 @@ hr {
 p {
     color: #FFFFFF;
     margin: 20px;
-    font-size: 18px;
+    font-size: 17px;
     text-align: justify;
 }
 
@@ -70,6 +70,7 @@ li {
     color: #FFFFFF;
     margin: auto;
     font-size: 17px;
+    text-align: justify;
 }
 
 
@@ -80,7 +81,11 @@ li {
 	max-height: 300px ;
 }
 
-
+#indeximage img {
+  float: right;
+  margin-right: 20%;
+    margin-left: 2%;
+}
 
 
 
