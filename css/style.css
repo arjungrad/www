@@ -7,20 +7,13 @@ body {
     	}
 h1, h2, h3, h4 {text-align:center;}
 
-tl {
-	color:lightblue;
-	text-shadow: 2px 2px black;
-	font-size: 22px;
-	text-align: center;
-}
-
     	
 h1 {
 	color:lightblue;
 	text-shadow: 2px 2px black;
 }
 
-h2 {color:goldenrod;}
+h2 {color:tomato;}
 
 h3 {color:tomato;}
 
