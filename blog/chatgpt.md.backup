@@ -1,0 +1,36 @@
++++
+title = "So I finally used ChatGPT"
+date = 2023-01-22
++++
+At first I was bit reluctant to use ChatGPT not only because of the general expected behavior of a human being to show less interest in new technology which has potential to alter the way in which the work is already done. Not from the consequence of that. I was reluctant to ChatGPT because it was asking my mobile number to signup! Yes, I understand companies these days are going pretty crazy to collect user data. moreover I understand that the devs of ChatGPT are just trying to protect it from exploitation. But still my mobile number for signing up for a service which I haven't even tested/decided to use in long term is too much. Sorry, I'm not interested.
+
+ChatGPT is a new cool kid in town. Everyone was talking about it and I fell for the peer pressure. I gave my mobile number, verified everything and was ready to go.
+
+At first, I was just beating the bush by saying hi/hello to that AI. Later I remembered someone saying that this thing can actually do programming on your behalf. I asked it to make some scripts for me. And oh boy! that actually worked! When I asked it to generate a script to automate a particular task and when it output the script, the feeling I got was similar to the moment when I used internet for the first time ever: MAGIC!
+
+That AI is so connivent that it solved my problem within seconds which, otherwise, I would've spent hours on. I asked AI to make a bash script to output my internet download speed on terminal. And it generated that script within seconds:
+
+```
+
+#!/bin/bash
+
+interface=$(ip route | awk '/default/ { print $5 }')
+
+while true; do
+    download_bytes=$(cat /sys/class/net/$interface/statistics/rx_bytes)
+    sleep 1
+    download_bytes_new=$(cat /sys/class/net/$interface/statistics/rx_bytes)
+    download_bytes_transferred=$((download_bytes_new-download_bytes))
+    download_speed_kbps=$(echo "scale=2;$download_bytes_transferred*8/1024" | bc)
+    echo "Interface: $interface"
+    echo "Download Speed: $download_speed_kbps kbps"
+done
+
+
+```
+
+### what I fear?
+
+What is the use of my brain? Should I just know how to form a sentence which can define my problem to AI? Is that enough? It seems to be.
+
+<img class=resmid src="/pix/chatgpt.jpg" alt="" width="300" height="700"></img>

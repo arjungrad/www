@@ -7,7 +7,38 @@
         <generator>Zola</generator>
         <language>en</language>
         <atom:link href="https://arjunyadav.xyz/rss.xml" rel="self" type="application/rss+xml"/>
-        <lastBuildDate>Wed, 28 Sep 2022 00:00:00 +0000</lastBuildDate>
+        <lastBuildDate>Sun, 22 Jan 2023 00:00:00 +0000</lastBuildDate>
+        <item>
+            <title>So I finally used ChatGPT</title>
+            <pubDate>Sun, 22 Jan 2023 00:00:00 +0000</pubDate>
+            <link>https://arjunyadav.xyz/blog/chatgpt/</link>
+            <guid>https://arjunyadav.xyz/blog/chatgpt/</guid>
+            <description>&lt;p&gt;At first I was bit reluctant to use ChatGPT not only because of the general expected behavior of a human being to show less interest in new technology which has potential to alter the way in which the work is already done. Not from the consequence of that. I was reluctant to ChatGPT because it was asking my mobile number to signup! Yes, I understand companies these days are going pretty crazy to collect user data. moreover I understand that the devs of ChatGPT are just trying to protect it from exploitation. But still my mobile number for signing up for a service which I haven&#x27;t even tested&#x2F;decided to use in long term is too much. Sorry, I&#x27;m not interested.&lt;&#x2F;p&gt;
+&lt;p&gt;ChatGPT is a new cool kid in town. Everyone was talking about it and I fell for the peer pressure. I gave my mobile number, verified everything and was ready to go.&lt;&#x2F;p&gt;
+&lt;p&gt;At first, I was just beating the bush by saying hi&#x2F;hello to that AI. Later I remembered someone saying that this thing can actually do programming on your behalf. I asked it to make some scripts for me. And oh boy! that actually worked! When I asked it to generate a script to automate a particular task and when it output the script, the feeling I got was similar to the moment when I used internet for the first time ever: MAGIC!&lt;&#x2F;p&gt;
+&lt;p&gt;That AI is so convenient that it solved my problem within seconds which, otherwise, I would&#x27;ve spent hours on. I asked AI to make a bash script to output my internet download speed on terminal. And it generated that script within seconds:&lt;&#x2F;p&gt;
+&lt;pre style=&quot;background-color:#2b303b;color:#c0c5ce;&quot;&gt;&lt;code&gt;&lt;span&gt;
+&lt;&#x2F;span&gt;&lt;span&gt;#!&#x2F;bin&#x2F;bash
+&lt;&#x2F;span&gt;&lt;span&gt;
+&lt;&#x2F;span&gt;&lt;span&gt;interface=$(ip route | awk &amp;#39;&#x2F;default&#x2F; { print $5 }&amp;#39;)
+&lt;&#x2F;span&gt;&lt;span&gt;
+&lt;&#x2F;span&gt;&lt;span&gt;while true; do
+&lt;&#x2F;span&gt;&lt;span&gt;    download_bytes=$(cat &#x2F;sys&#x2F;class&#x2F;net&#x2F;$interface&#x2F;statistics&#x2F;rx_bytes)
+&lt;&#x2F;span&gt;&lt;span&gt;    sleep 1
+&lt;&#x2F;span&gt;&lt;span&gt;    download_bytes_new=$(cat &#x2F;sys&#x2F;class&#x2F;net&#x2F;$interface&#x2F;statistics&#x2F;rx_bytes)
+&lt;&#x2F;span&gt;&lt;span&gt;    download_bytes_transferred=$((download_bytes_new-download_bytes))
+&lt;&#x2F;span&gt;&lt;span&gt;    download_speed_kbps=$(echo &amp;quot;scale=2;$download_bytes_transferred*8&#x2F;1024&amp;quot; | bc)
+&lt;&#x2F;span&gt;&lt;span&gt;    echo &amp;quot;Interface: $interface&amp;quot;
+&lt;&#x2F;span&gt;&lt;span&gt;    echo &amp;quot;Download Speed: $download_speed_kbps kbps&amp;quot;
+&lt;&#x2F;span&gt;&lt;span&gt;done
+&lt;&#x2F;span&gt;&lt;span&gt;
+&lt;&#x2F;span&gt;&lt;span&gt;
+&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;h3 id=&quot;what-i-fear&quot;&gt;what I fear?&lt;&#x2F;h3&gt;
+&lt;p&gt;What is the use of my brain? Should I just know how to form a sentence which can define my problem to AI? Is that enough? It seems to be.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img class=resmid src=&quot;&#x2F;pix&#x2F;chatgpt.jpg&quot; alt=&quot;&quot; width=&quot;300&quot; height=&quot;700&quot;&gt;&lt;&#x2F;img&gt;&lt;&#x2F;p&gt;
+</description>
+        </item>
         <item>
             <title>Bhai ka Birthday!</title>
             <pubDate>Wed, 28 Sep 2022 00:00:00 +0000</pubDate>
