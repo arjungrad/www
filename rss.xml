@@ -2,18 +2,19 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
       <title>Arjun Yadav&#x27;s Webpage</title>
-        <link>https://arjunyadav.xyz</link>
-        <description>Webpage</description>
-        <generator>Zola</generator>
-        <language>en</language>
-        <atom:link href="https://arjunyadav.xyz/rss.xml" rel="self" type="application/rss+xml"/>
-        <lastBuildDate>Sun, 22 Jan 2023 00:00:00 +0000</lastBuildDate>
-        <item>
-            <title>So I finally used ChatGPT</title>
-            <pubDate>Sun, 22 Jan 2023 00:00:00 +0000</pubDate>
-            <link>https://arjunyadav.xyz/blog/chatgpt/</link>
-            <guid>https://arjunyadav.xyz/blog/chatgpt/</guid>
-            <description>&lt;p&gt;At first I was bit reluctant to use ChatGPT not only because of the general expected behavior of a human being to show less interest in new technology which has potential to alter the way in which the work is already done. Not from the consequence of that. I was reluctant to ChatGPT because it was asking my mobile number to signup! Yes, I understand companies these days are going pretty crazy to collect user data. moreover I understand that the devs of ChatGPT are just trying to protect it from exploitation. But still my mobile number for signing up for a service which I haven&#x27;t even tested&#x2F;decided to use in long term is too much. Sorry, I&#x27;m not interested.&lt;&#x2F;p&gt;
+      <link>https://arjunyadav.xyz</link>
+      <description>Webpage</description>
+      <generator>Zola</generator>
+      <language>en</language>
+      <atom:link href="https://arjunyadav.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+      <lastBuildDate>Sun, 22 Jan 2023 00:00:00 +0000</lastBuildDate>
+      <item>
+          <title>So I finally used ChatGPT</title>
+          <pubDate>Sun, 22 Jan 2023 00:00:00 +0000</pubDate>
+          <author>Unknown</author>
+          <link>https://arjunyadav.xyz/blog/chatgpt/</link>
+          <guid>https://arjunyadav.xyz/blog/chatgpt/</guid>
+          <description>&lt;p&gt;At first I was bit reluctant to use ChatGPT not only because of the general expected behavior of a human being to show less interest in new technology which has potential to alter the way in which the work is already done. Not from the consequence of that. I was reluctant to ChatGPT because it was asking my mobile number to signup! Yes, I understand companies these days are going pretty crazy to collect user data. moreover I understand that the devs of ChatGPT are just trying to protect it from exploitation. But still my mobile number for signing up for a service which I haven&#x27;t even tested&#x2F;decided to use in long term is too much. Sorry, I&#x27;m not interested.&lt;&#x2F;p&gt;
 &lt;p&gt;ChatGPT is a new cool kid in town. Everyone was talking about it and I fell for the peer pressure. I gave my mobile number, verified everything and was ready to go.&lt;&#x2F;p&gt;
 &lt;p&gt;At first, I was just beating the bush by saying hi&#x2F;hello to that AI. Later I remembered someone saying that this thing can actually do programming on your behalf. I asked it to make some scripts for me. And oh boy! that actually worked! When I asked it to generate a script to automate a particular task and when it output the script, the feeling I got was similar to the moment when I used internet for the first time ever: MAGIC!&lt;&#x2F;p&gt;
 &lt;p&gt;That AI is so convenient that it solved my problem within seconds which, otherwise, I would&#x27;ve spent hours on. I asked AI to make a bash script to output my internet download speed on terminal. And it generated that script within seconds:&lt;&#x2F;p&gt;
@@ -38,13 +39,14 @@
 &lt;p&gt;What is the use of my brain? Should I just know how to form a sentence which can define my problem to AI? Is that enough? It seems to be.&lt;&#x2F;p&gt;
 &lt;p&gt;&lt;img class=resmid src=&quot;&#x2F;pix&#x2F;chatgpt.jpg&quot; alt=&quot;&quot; width=&quot;300&quot; height=&quot;700&quot;&gt;&lt;&#x2F;img&gt;&lt;&#x2F;p&gt;
 </description>
-        </item>
-        <item>
-            <title>Bhai ka Birthday!</title>
-            <pubDate>Wed, 28 Sep 2022 00:00:00 +0000</pubDate>
-            <link>https://arjunyadav.xyz/blog/bhagatsinghbirthday/</link>
-            <guid>https://arjunyadav.xyz/blog/bhagatsinghbirthday/</guid>
-            <description>&lt;p&gt;More often than not Google celebrates the birthday of famous figures by showing their picture on its front page. I was surprised to see that there was no image of Bhagat Singh on the main page today. But anyways, its the birthday of our hero Bhagat Singh. For the ones who don&#x27;t know about Bhagat Singh : He is the symbol of bravery for many Indians and Pakistanis. Dude was born in 28 sep, 1907 and in his adulthood he became a nightmare for &#x27;samay di sarkar&#x27; (British government which was ruling India back then) He was such a pain for the government that they hanged him on 23rd march, 1931. At the time of his martyrdom he was only 23. Twenty Three! In such a short life he was able to create massive impact on India&#x27;s resistance for freedom, that even after almost a century he is still being remembered and respected by millions.&lt;&#x2F;p&gt;
+      </item>
+      <item>
+          <title>Bhai ka Birthday!</title>
+          <pubDate>Wed, 28 Sep 2022 00:00:00 +0000</pubDate>
+          <author>Unknown</author>
+          <link>https://arjunyadav.xyz/blog/bhagatsinghbirthday/</link>
+          <guid>https://arjunyadav.xyz/blog/bhagatsinghbirthday/</guid>
+          <description>&lt;p&gt;More often than not Google celebrates the birthday of famous figures by showing their picture on its front page. I was surprised to see that there was no image of Bhagat Singh on the main page today. But anyways, its the birthday of our hero Bhagat Singh. For the ones who don&#x27;t know about Bhagat Singh : He is the symbol of bravery for many Indians and Pakistanis. Dude was born in 28 sep, 1907 and in his adulthood he became a nightmare for &#x27;samay di sarkar&#x27; (British government which was ruling India back then) He was such a pain for the government that they hanged him on 23rd march, 1931. At the time of his martyrdom he was only 23. Twenty Three! In such a short life he was able to create massive impact on India&#x27;s resistance for freedom, that even after almost a century he is still being remembered and respected by millions.&lt;&#x2F;p&gt;
 &lt;p&gt;Now I don&#x27;t see the need of writing all of the things done by Bhagat Singh in this post. But one thing I should share is that Bhagat Singh was convicted of the murder of John Saunders and Channan Singh (which were done to take revenge). Rest you can find on the &lt;a href=&quot;https:&#x2F;&#x2F;en.wikipedia.org&#x2F;wiki&#x2F;Bhagat_Singh&quot; target=&quot;_blank&quot;&gt;wikipedia&lt;&#x2F;a&gt; page.&lt;&#x2F;p&gt;
 &lt;p&gt;I think there is one thing of Bhagat Singh&#x27;s &lt;a href=&quot;https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=gDE0SLOw-OI&quot; target=&quot;_blank&quot;&gt;fan&lt;&#x2F;a&gt; which can be criticised that they only see one side of Bhagat Singh i.e his bravery. But negelet other two qualities - his iron will and sharp intellect. As Jawaharlal Nehru said &amp;quot;He became a symbol(of bravery); the act was forgotten, the symbol(of bravery) remained.&amp;quot; On these two things (will and intellect) I would like to put some light on.&lt;&#x2F;p&gt;
 &lt;p&gt;Fortunately, most of the things which Bhagat Singh wrote survived and passed on. When I read those texts and saw at what age he has written them and compared that with what other freedom fighters were thinking and writing at that age, I found huge differences. For me, its hard to believe that a 16 year old boy can write something like this:&lt;a href=&quot;https:&#x2F;&#x2F;www.marxists.org&#x2F;archive&#x2F;bhagat-singh&#x2F;1923&#x2F;x01&#x2F;x01.htm&quot; target=&quot;_blank&quot;&gt;The Problem of Punjab&#x27;s Language and Script&lt;&#x2F;a&gt; (It was written for a competition which he won and received a price of 50 rupees.)&lt;&#x2F;p&gt;
@@ -62,13 +64,14 @@
 &lt;p&gt;Sardar Udham Singh: &amp;quot;ha..so don&#x27;t talk anything about Bhagat Singh. You know nothing about him&amp;quot;&lt;&#x2F;p&gt;
 &lt;p&gt;&lt;a href=&#x2F;pix&#x2F;bhagatsingh.jpg&gt;&lt;img class=resmid src=&quot;&#x2F;pix&#x2F;bhagatsingh.jpg&quot; alt=&quot;Bhagat Singh&quot;&gt;&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
 </description>
-        </item>
-        <item>
-            <title>Exploitation of Micro Credit Need</title>
-            <pubDate>Wed, 14 Sep 2022 00:00:00 +0000</pubDate>
-            <link>https://arjunyadav.xyz/blog/exploitationofmicrocreditneed/</link>
-            <guid>https://arjunyadav.xyz/blog/exploitationofmicrocreditneed/</guid>
-            <description>&lt;p&gt;Finally! the government is taking the required measures against small credit apps.&lt;&#x2F;p&gt;
+      </item>
+      <item>
+          <title>Exploitation of Micro Credit Need</title>
+          <pubDate>Wed, 14 Sep 2022 00:00:00 +0000</pubDate>
+          <author>Unknown</author>
+          <link>https://arjunyadav.xyz/blog/exploitationofmicrocreditneed/</link>
+          <guid>https://arjunyadav.xyz/blog/exploitationofmicrocreditneed/</guid>
+          <description>&lt;p&gt;Finally! the government is taking the required measures against small credit apps.&lt;&#x2F;p&gt;
 &lt;h2 id=&quot;what-is-it-all-about&quot;&gt;What is it all about?&lt;&#x2F;h2&gt;
 &lt;p&gt;Before starting let me first introduce my readers to the situation (Even if you are not from India this might be good case study):&lt;&#x2F;p&gt;
 &lt;p&gt;It all started just few years ago when all of a sudden few loan apps started to emerge on app&#x2F;play store. What these companies were doing is providing small loan to its users by taking only minimal documents. These apps performed on 2-1-0 formula - two minutes to decide, one minute to transfer and no human contact and zero collateral.&lt;&#x2F;p&gt;
@@ -79,13 +82,14 @@
 &lt;p&gt;After much talk of more than two years government is finally giving some essential orders - Government has now ordered Reserve Bank of India to create a whitelist of legal apps which will be the only ones app&#x2F;play store can host.&lt;&#x2F;p&gt;
 &lt;p&gt;This seems to be a necessary step. Moreover, the demand of micro credit by Indians must be taken under consideration and adequate changes must be implemented in Indian banking system. The changes which can create ease of taking micro credit and educating the gullible citizens.&lt;&#x2F;p&gt;
 </description>
-        </item>
-        <item>
-            <title>I&#x27;m about to Become a Millionaire</title>
-            <pubDate>Tue, 23 Aug 2022 00:00:00 +0000</pubDate>
-            <link>https://arjunyadav.xyz/blog/imabouttobecomeamillionaire/</link>
-            <guid>https://arjunyadav.xyz/blog/imabouttobecomeamillionaire/</guid>
-            <description>&lt;p&gt;Ladies and gentleman its great pleasure to inform you that I&#x27;m about to become a millionaire. Contrary to &lt;a href=&quot;https:&#x2F;&#x2F;jacobwsmith.xyz&#x2F;stories&#x2F;millionaires.html&quot;&gt;popular&lt;&#x2F;a&gt; belief one doesn&#x27;t necessarily need to work hard in order to become a millionaire. Instead one should be just adequately aware about the opportunities which are given in life. In my case I found the opportunity in my spam box. At first I thought its just another spam email but when I read it I realized that if I help a woman just by letting her use my bank account for temporary basis. I&#x27;ll become a millionaire once the deal is done. You will understand the scheme once you read the email:&lt;&#x2F;p&gt;
+      </item>
+      <item>
+          <title>I&#x27;m about to Become a Millionaire</title>
+          <pubDate>Tue, 23 Aug 2022 00:00:00 +0000</pubDate>
+          <author>Unknown</author>
+          <link>https://arjunyadav.xyz/blog/imabouttobecomeamillionaire/</link>
+          <guid>https://arjunyadav.xyz/blog/imabouttobecomeamillionaire/</guid>
+          <description>&lt;p&gt;Ladies and gentleman its great pleasure to inform you that I&#x27;m about to become a millionaire. Contrary to &lt;a href=&quot;https:&#x2F;&#x2F;jacobwsmith.xyz&#x2F;stories&#x2F;millionaires.html&quot;&gt;popular&lt;&#x2F;a&gt; belief one doesn&#x27;t necessarily need to work hard in order to become a millionaire. Instead one should be just adequately aware about the opportunities which are given in life. In my case I found the opportunity in my spam box. At first I thought its just another spam email but when I read it I realized that if I help a woman just by letting her use my bank account for temporary basis. I&#x27;ll become a millionaire once the deal is done. You will understand the scheme once you read the email:&lt;&#x2F;p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;FROM:  MRS BOHDANA ALEKSANDER&lt;&#x2F;p&gt;
 &lt;p&gt;URGENT REPLY NEEDED AND CONFIDENTIAL&lt;&#x2F;p&gt;
@@ -105,22 +109,24 @@
 &lt;p&gt;I think missing this opportunity can be a life long regret. If I don&#x27;t help her someone else is gonna help her. I can only imagine what crazy things I can do with that crazy money. Maybe I&#x27;ll pay for Winrar or interfere with elections in some African democracy.&lt;&#x2F;p&gt;
 &lt;p&gt;&lt;a href=&#x2F;pix&#x2F;nigerianprince.jpg&gt;&lt;img class=resmid src=&quot;&#x2F;pix&#x2F;nigerianprince.jpg&quot; alt=&quot;nigerian prince&quot;&gt;&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
 </description>
-        </item>
-        <item>
-            <title>Save Politics From Extreme Personalities</title>
-            <pubDate>Mon, 22 Aug 2022 00:00:00 +0000</pubDate>
-            <link>https://arjunyadav.xyz/blog/save-politics-from-extreme-personalities/</link>
-            <guid>https://arjunyadav.xyz/blog/save-politics-from-extreme-personalities/</guid>
-            <description>&lt;p&gt;How often it happens that we end up consuming information which is of no use to us. This happens to me more often than not when I read news. You might also have consumed this irrelevant info by now: A &lt;a href=&quot;https:&#x2F;&#x2F;www.aljazeera.com&#x2F;news&#x2F;2022&#x2F;8&#x2F;18&#x2F;finnish-pm-facing-backlash-over-leaked-party-footage&quot;&gt;video&lt;&#x2F;a&gt; of Finland&#x27;s Prime Minister Sanna Marin got viral where, as per many people, she is participating in a taboo where she is doing evil things like dancing, smiling, enjoying with her friends in a private environment! Such a normal thing to do yet there are people who are criticizing her. It seems like because of technology, especially in free countries, politicians are almost deprived of any private life. I like Yuval Noah Harari&#x27;s take on this that Politicians should have the right to be dumb private life. Sometimes saying something stupid or doing something stupid is what makes us human. Why deprive a politician of private life? Why deprive him from doing or saying something offensive&#x2F;stupid behind the doors? Me being an average person lot of funny&#x2F;dumb things come to my mind which if I put them on internet may offend some people. So in order to protect myself from the discomfort involved in sharing those thoughts with unknown audience I share them with my friends instead. Just realized that I actually have the privilege to write offensive things on my website and still get away with it as I basically scream in void here. But politicians do not have this privilege. Just imagine for a moment that you are a politician relaxing on your sofa and suddenly your daughter comes with her camera on, a completely normal phenomenon, and she asks &amp;quot;Dad why aren&#x27;t you on twitch?&amp;quot; you being a boomer: &amp;quot;I&#x27;m not on twitch because it carters degenerates.&amp;quot; Your daughter finds this opinion funny and shares this video with her only one friend who might find it funny too and she is pretty sure that that friend is definitely not going to share that video with anyone else! And boom within hours you find yourself being trending on twitter getting slaughtered by twitch streamers and their simps. You will find yourself being framed as a fascist dictator by opposition and they will demand your resignation! All this will happen just because a completely legal private moment of a politician got leaked in public. It goes without saying that a politician with enough intelligence would never say &amp;quot;Twitch is a pool of degenerates&amp;quot; in a public interview or something. Now you tell me, why care about the obscure opinions of politicians as long as those opinions don&#x27;t manifests themselves in country policy. Does it even matter if a politician privately thinks that Twitch is for degenerates as long as he doesn&#x27;t go and ban the website? I believe it does not. As people continue to get obsessed with politics, private life of politicians will continue to reduce. This elimination of private life, the elimination of the right to act dumb privately has and will continue to cause a specific problem. Politics as a result of elimination of private life will only attract some specific personalities to participate in it. Normal human just can&#x27;t handle this lifestyle where he is watched 24&#x2F;7. When a politician know people are going to watch him, he acts in a different way than what he would in private. A politician has to think before he speaks. Which is not a normal human thing to do if continued for longer period. I don&#x27;t usually think that deep when I&#x27;m talking with my friends, however speaking or acting in public is a completely different thing. How long can one act as if millions of people are watching him? How long can one prevent himself from saying&#x2F;doing normal human things? The elimination of private life results into creation of mainly two types of extreme personalities in politics. One: Mainly in free world we see more and more people becoming like Donald Trump. The people with the ability to act 24&#x2F;7. There is no concept of personal life in politicians with Donald Trump personality. They will say dumb things even if millions of people are watching. Second type of personality will be in the likes of Putin, mainly in states where totalitarian tendencies can be seen. Where politicians with personality like Putin is involved no one is allowed to record him in private life. And the only limited public appearances which exist are scripted and well acted performance. Now looking back to Finnish Prime Minister Sanna Marin we can see that how important it is for Finnish people to not to be rude with her. Good thing is that there are many women who are sharing their own dancing &lt;a href=&quot;https:&#x2F;&#x2F;www.msn.com&#x2F;en-us&#x2F;news&#x2F;world&#x2F;women-are-posting-their-own-dancing-videos-in-support-of-finnish-prime-minister-sanna-marin&#x2F;ar-AA10WJkp&quot;&gt;videos&lt;&#x2F;a&gt; in her support to show that dancing doesn&#x27;t make a woman witch. Like there is no need to criticize a politician for his personal life, there is no need to support him either. That what a politician do in his private life shall not be of anyone&#x27;s business unless its a criminal act or something which manifest itself as formation of government policy. Otherwise only extreme personalities will participate in politics.&lt;&#x2F;p&gt;
+      </item>
+      <item>
+          <title>Save Politics From Extreme Personalities</title>
+          <pubDate>Mon, 22 Aug 2022 00:00:00 +0000</pubDate>
+          <author>Unknown</author>
+          <link>https://arjunyadav.xyz/blog/save-politics-from-extreme-personalities/</link>
+          <guid>https://arjunyadav.xyz/blog/save-politics-from-extreme-personalities/</guid>
+          <description>&lt;p&gt;How often it happens that we end up consuming information which is of no use to us. This happens to me more often than not when I read news. You might also have consumed this irrelevant info by now: A &lt;a href=&quot;https:&#x2F;&#x2F;www.aljazeera.com&#x2F;news&#x2F;2022&#x2F;8&#x2F;18&#x2F;finnish-pm-facing-backlash-over-leaked-party-footage&quot;&gt;video&lt;&#x2F;a&gt; of Finland&#x27;s Prime Minister Sanna Marin got viral where, as per many people, she is participating in a taboo where she is doing evil things like dancing, smiling, enjoying with her friends in a private environment! Such a normal thing to do yet there are people who are criticizing her. It seems like because of technology, especially in free countries, politicians are almost deprived of any private life. I like Yuval Noah Harari&#x27;s take on this that Politicians should have the right to be dumb private life. Sometimes saying something stupid or doing something stupid is what makes us human. Why deprive a politician of private life? Why deprive him from doing or saying something offensive&#x2F;stupid behind the doors? Me being an average person lot of funny&#x2F;dumb things come to my mind which if I put them on internet may offend some people. So in order to protect myself from the discomfort involved in sharing those thoughts with unknown audience I share them with my friends instead. Just realized that I actually have the privilege to write offensive things on my website and still get away with it as I basically scream in void here. But politicians do not have this privilege. Just imagine for a moment that you are a politician relaxing on your sofa and suddenly your daughter comes with her camera on, a completely normal phenomenon, and she asks &amp;quot;Dad why aren&#x27;t you on twitch?&amp;quot; you being a boomer: &amp;quot;I&#x27;m not on twitch because it carters degenerates.&amp;quot; Your daughter finds this opinion funny and shares this video with her only one friend who might find it funny too and she is pretty sure that that friend is definitely not going to share that video with anyone else! And boom within hours you find yourself being trending on twitter getting slaughtered by twitch streamers and their simps. You will find yourself being framed as a fascist dictator by opposition and they will demand your resignation! All this will happen just because a completely legal private moment of a politician got leaked in public. It goes without saying that a politician with enough intelligence would never say &amp;quot;Twitch is a pool of degenerates&amp;quot; in a public interview or something. Now you tell me, why care about the obscure opinions of politicians as long as those opinions don&#x27;t manifests themselves in country policy. Does it even matter if a politician privately thinks that Twitch is for degenerates as long as he doesn&#x27;t go and ban the website? I believe it does not. As people continue to get obsessed with politics, private life of politicians will continue to reduce. This elimination of private life, the elimination of the right to act dumb privately has and will continue to cause a specific problem. Politics as a result of elimination of private life will only attract some specific personalities to participate in it. Normal human just can&#x27;t handle this lifestyle where he is watched 24&#x2F;7. When a politician know people are going to watch him, he acts in a different way than what he would in private. A politician has to think before he speaks. Which is not a normal human thing to do if continued for longer period. I don&#x27;t usually think that deep when I&#x27;m talking with my friends, however speaking or acting in public is a completely different thing. How long can one act as if millions of people are watching him? How long can one prevent himself from saying&#x2F;doing normal human things? The elimination of private life results into creation of mainly two types of extreme personalities in politics. One: Mainly in free world we see more and more people becoming like Donald Trump. The people with the ability to act 24&#x2F;7. There is no concept of personal life in politicians with Donald Trump personality. They will say dumb things even if millions of people are watching. Second type of personality will be in the likes of Putin, mainly in states where totalitarian tendencies can be seen. Where politicians with personality like Putin is involved no one is allowed to record him in private life. And the only limited public appearances which exist are scripted and well acted performance. Now looking back to Finnish Prime Minister Sanna Marin we can see that how important it is for Finnish people to not to be rude with her. Good thing is that there are many women who are sharing their own dancing &lt;a href=&quot;https:&#x2F;&#x2F;www.msn.com&#x2F;en-us&#x2F;news&#x2F;world&#x2F;women-are-posting-their-own-dancing-videos-in-support-of-finnish-prime-minister-sanna-marin&#x2F;ar-AA10WJkp&quot;&gt;videos&lt;&#x2F;a&gt; in her support to show that dancing doesn&#x27;t make a woman witch. Like there is no need to criticize a politician for his personal life, there is no need to support him either. That what a politician do in his private life shall not be of anyone&#x27;s business unless its a criminal act or something which manifest itself as formation of government policy. Otherwise only extreme personalities will participate in politics.&lt;&#x2F;p&gt;
 &lt;p&gt;&lt;a href=&#x2F;pix&#x2F;sannamarin.jpg&gt;&lt;img class=resmid src=&quot;&#x2F;pix&#x2F;sannamarin.jpg&quot; alt=&quot;sanna marnin&quot;&gt;&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
 </description>
-        </item>
-        <item>
-            <title>Book Review: Crime And Punishment</title>
-            <pubDate>Thu, 04 Aug 2022 00:00:00 +0000</pubDate>
-            <link>https://arjunyadav.xyz/blog/bookreview-crimeandpunishment/</link>
-            <guid>https://arjunyadav.xyz/blog/bookreview-crimeandpunishment/</guid>
-            <description>&lt;p&gt;Recently I finished reading &#x27;Crime And Punishment&#x27; by Fyodor Dostoevsky. I don&#x27;t usually like to read fiction as I find it to be just a waste of time. (Although this thinking seems to be changing as I continue to read more) After reading this book I realized the reason why people tend to put Dostoevsky  on such a high regard. So, following is my review of the book:&lt;&#x2F;p&gt;
+      </item>
+      <item>
+          <title>Book Review: Crime And Punishment</title>
+          <pubDate>Thu, 04 Aug 2022 00:00:00 +0000</pubDate>
+          <author>Unknown</author>
+          <link>https://arjunyadav.xyz/blog/bookreview-crimeandpunishment/</link>
+          <guid>https://arjunyadav.xyz/blog/bookreview-crimeandpunishment/</guid>
+          <description>&lt;p&gt;Recently I finished reading &#x27;Crime And Punishment&#x27; by Fyodor Dostoevsky. I don&#x27;t usually like to read fiction as I find it to be just a waste of time. (Although this thinking seems to be changing as I continue to read more) After reading this book I realized the reason why people tend to put Dostoevsky  on such a high regard. So, following is my review of the book:&lt;&#x2F;p&gt;
 &lt;p&gt;&#x27;Crime And Punishment&#x27; is like a dish where if you remove or add one ingredient (character) the whole dish will become messed up. Even after having less experience of reading fiction I did not find it difficult to follow up with the characters. The book starts with questions and confusion. In first chapter, things are happening but reader might find it difficult to know exactly what.&lt;&#x2F;p&gt;
 &lt;p&gt;The main character Raskolnikov, a dropped out law college student, is well explained however Dostoevsky doesn&#x27;t show all of the Raskolnikov&#x27;s conditions right off the bat. You understand him as the story proceeds. And that&#x27;s the whole point of crime and punishment: To see how poor and desperate conditions can lead to making of a criminal and what happens psychologically to the victim of those conditions.&lt;&#x2F;p&gt;
 &lt;p&gt;Razumikhin: friend and classmate of Raskolnikov is my favourite character. He is the life of this otherwise dead (as in depressed ) novel. He too is college dropped out but unlike Raskolnikov he is high on life. Razumikhin is a perfect friend! Without Razumikhin I don&#x27;t think I would even have finished this book.&lt;&#x2F;p&gt;
@@ -128,13 +134,14 @@
 &lt;p&gt;&#x27;Crime And Punishment&#x27; is one of those rare books like &#x27;Animal Farm&#x27; by George Orwell where the author wants to give message but does not ruin the story in order to give message. Its a well written story! one can enjoy it even without digging deep into its philosophical message.&lt;&#x2F;p&gt;
 &lt;p&gt;&lt;a href=&#x2F;pix&#x2F;Razumikhin.webp&gt;&lt;img class=resmid src=&quot;&#x2F;pix&#x2F;Razumikhin.webp&quot; alt=&quot;Razumikhin&quot;&gt;&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
 </description>
-        </item>
-        <item>
-            <title>Babur Ba&#x27;aish Kush Ki</title>
-            <pubDate>Sat, 18 Jun 2022 00:00:00 +0000</pubDate>
-            <link>https://arjunyadav.xyz/blog/babur/</link>
-            <guid>https://arjunyadav.xyz/blog/babur/</guid>
-            <description>&lt;p&gt;Welcome reader. Today I want to share with you one shair.(poem) written by  Babur: The man who built Mughal empire in India. &lt;&#x2F;p&gt;
+      </item>
+      <item>
+          <title>Babur Ba&#x27;aish Kush Ki</title>
+          <pubDate>Sat, 18 Jun 2022 00:00:00 +0000</pubDate>
+          <author>Unknown</author>
+          <link>https://arjunyadav.xyz/blog/babur/</link>
+          <guid>https://arjunyadav.xyz/blog/babur/</guid>
+          <description>&lt;p&gt;Welcome reader. Today I want to share with you one shair.(poem) written by  Babur: The man who built Mughal empire in India. &lt;&#x2F;p&gt;
 &lt;p&gt;Be with me, You might find it an interesting.&lt;&#x2F;p&gt;
 &lt;p&gt;Now, before I write the shair out of blue It might be a good idea to know little bit of Babur&#x27;s back story. Babur was no ordinary sperm. He was a descendant of Timur and Genghis Khan. To rule was in his blood. But life was not always beautiful for him. After many losses he was left with poverty and an army of only forty men. And even those forty weren&#x27;t able to march with him all the time because of poverty. However he didn&#x27;t quit, continued fighting, started winning battles, he started to have obsession to rule India, Babur fought and won the battle of panipat. After all the years of suffering he concurred Delhi.&lt;&#x2F;p&gt;
 &lt;p&gt;Life became easy, now Babur had all the riches and he was surprised by the natural beauty of India that he wrote a shair on his condition:
@@ -148,13 +155,30 @@
 &lt;p&gt;&lt;em&gt;O Babur enjoy them&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
 &lt;p&gt;&lt;em&gt;For the world is not to be had a second time&lt;&#x2F;em&gt;)&lt;&#x2F;p&gt;
 </description>
-        </item>
-        <item>
-            <title>MX Linux is a really good distro</title>
-            <pubDate>Tue, 14 Jun 2022 00:00:00 +0000</pubDate>
-            <link>https://arjunyadav.xyz/blog/thingsthatmakemxlinuxagooddistro/</link>
-            <guid>https://arjunyadav.xyz/blog/thingsthatmakemxlinuxagooddistro/</guid>
-            <description>&lt;p&gt;I&#x27;m currently daily driving MX Linux. In Debian side of the world, in my experience, I have found MX Linux to be a fair alternative to Ubuntu. It is actually a really good distro, and I have some points to back my statement:&lt;&#x2F;p&gt;
+      </item>
+      <item>
+          <title>SEBI literally 1984</title>
+          <pubDate>Sat, 18 Jun 2022 00:00:00 +0000</pubDate>
+          <author>Unknown</author>
+          <link>https://arjunyadav.xyz/blog/sebiliterally1984/</link>
+          <guid>https://arjunyadav.xyz/blog/sebiliterally1984/</guid>
+          <description>&lt;p&gt;&amp;quot;Literally 1984!&amp;quot; that&#x27;s what all our &#x27;best&#x27; &#x27;No 1&#x27; &#x27;Leading&#x27; &#x27;top&#x27; investment Adviser&#x2F;research analyst must be screaming right now.&lt;&#x2F;p&gt;
+&lt;p&gt;why?&lt;&#x2F;p&gt;
+&lt;p&gt;why shouldn&#x27;t they!&lt;&#x2F;p&gt;
+&lt;p&gt;The way investment advisers (IA)&#x2F; research analysts (RA) advertise themselves is not hidden from anyone. What I mean is the usage of words: the promises, fake claims are common in advertisements to influence investors&#x2F;consumers. After all its not a new phenomenon. Nevertheless &amp;quot;Dair aaye drust aaye&amp;quot; (Better late than never) SEBI recently issue its &lt;a href=&quot;https:&#x2F;&#x2F;www.sebi.gov.in&#x2F;legal&#x2F;circulars&#x2F;apr-2023&#x2F;advertisement-code-for-investment-advisers-ia-and-research-analysts-ra-_69798.html&quot;&gt;circular&lt;&#x2F;a&gt; where it issued an advisory for the words used by these IA&#x2F;IR in their advertisements. To quote the circular:&lt;&#x2F;p&gt;
+&lt;p&gt;&amp;quot;Superlative terms such as “Best”, “No. 1”, Top Adviser&#x2F;Research Analyst,“Leading”, “One of the best amongst market leaders”, etc. so as to provide any endorsement of quality or standing of the IA&#x2F;RA. However, factual details of awards received by the IA&#x2F;RA from independent organizations may be included.&amp;quot;&lt;&#x2F;p&gt;
+&lt;p&gt;Now listen to the IA&#x2F;IR:&lt;&#x2F;p&gt;
+&lt;p&gt;&amp;quot;Bro its an attack on free speech! Language is the first thing every totalitarian state targets! Prohibiting us from speaking is such a neofascism. Attack on Private enterprise is a promotion for communism! Literally 1984!&amp;quot;&lt;&#x2F;p&gt;
+&lt;img class=resmid src=&quot;&#x2F;pix&#x2F;2023&#x2F;1984.gif&quot; alt=&quot;My GIF&quot; height=&quot;200&quot; width=&quot;200&quot;&gt;
+</description>
+      </item>
+      <item>
+          <title>MX Linux is a really good distro</title>
+          <pubDate>Tue, 14 Jun 2022 00:00:00 +0000</pubDate>
+          <author>Unknown</author>
+          <link>https://arjunyadav.xyz/blog/thingsthatmakemxlinuxagooddistro/</link>
+          <guid>https://arjunyadav.xyz/blog/thingsthatmakemxlinuxagooddistro/</guid>
+          <description>&lt;p&gt;I&#x27;m currently daily driving MX Linux. In Debian side of the world, in my experience, I have found MX Linux to be a fair alternative to Ubuntu. It is actually a really good distro, and I have some points to back my statement:&lt;&#x2F;p&gt;
 &lt;p&gt;1- According to MX Linux&#x27;s developers it&#x27;s a user-oriented distribution. Which means it includes some non-free software in it by default in order to make this distro &#x27;work out of the box&#x27; without giving the user much trouble. These non-free software may include fonts, media codecs, browsers etc. for example, in &#x27;MX package package installer&#x27; user has the ability to download google-chrome&#x2F;edge etc.&lt;&#x2F;p&gt;
 &lt;p&gt;2- If you have only used Fedora and opensuse your entire life, you would find the installation time of MX Linux to be magical. I have found the MX Installer to be 3 times faster than Ubuntu&#x27;s installer. MX use its custom installer which has enough options and is fast at the same time.&lt;&#x2F;p&gt;
 &lt;p&gt;3- If you are one of those people who don&#x27;t like the idea of systemd then you would feel at home to find that MX comes with there own init system by default. Which is, of course faster than systemd.&lt;&#x2F;p&gt;
@@ -165,13 +189,14 @@
 &lt;p&gt;These were some of the points why I consider MX Linux to be a really good disro. If you haven&#x27;t then do give MX a try, don&#x27;t just get off by the initial looks it&#x27;s highly customizable.&lt;&#x2F;p&gt;
 &lt;p&gt;&lt;em&gt;This post was proudly written on vim running on MX Linux.&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
 </description>
-        </item>
-        <item>
-            <title>You hate NFTs? so cute</title>
-            <pubDate>Fri, 18 Feb 2022 00:00:00 +0000</pubDate>
-            <link>https://arjunyadav.xyz/blog/you-hate-nft-so-cute/</link>
-            <guid>https://arjunyadav.xyz/blog/you-hate-nft-so-cute/</guid>
-            <description>&lt;p&gt;We make fun of NFTs. And the people who buy NFTs are considered merely to be memes by the majority of us at this point. however, looking at NFTs from the business perspective does make lot of sense. NFTs are profitable, that is why many companies who have sold only physical goods from the dawn of their time are now doing heavy investment in selling virtual goods. Some of the luxury brands who are expanding their business to metaverse include Balenciaga, Gucci and Nike (Is Nike luxury? yes come visit the third world)&lt;&#x2F;p&gt;
+      </item>
+      <item>
+          <title>You hate NFTs? so cute</title>
+          <pubDate>Fri, 18 Feb 2022 00:00:00 +0000</pubDate>
+          <author>Unknown</author>
+          <link>https://arjunyadav.xyz/blog/you-hate-nft-so-cute/</link>
+          <guid>https://arjunyadav.xyz/blog/you-hate-nft-so-cute/</guid>
+          <description>&lt;p&gt;We make fun of NFTs. And the people who buy NFTs are considered merely to be memes by the majority of us at this point. however, looking at NFTs from the business perspective does make lot of sense. NFTs are profitable, that is why many companies who have sold only physical goods from the dawn of their time are now doing heavy investment in selling virtual goods. Some of the luxury brands who are expanding their business to metaverse include Balenciaga, Gucci and Nike (Is Nike luxury? yes come visit the third world)&lt;&#x2F;p&gt;
 &lt;h3 id=&quot;virtual-commodities-are-profitable&quot;&gt;Virtual commodities are profitable&lt;&#x2F;h3&gt;
 &lt;ul&gt;
 &lt;li&gt;
@@ -191,13 +216,14 @@
 &lt;p&gt;Considering the amount of profit in selling virtual goods. Companies will shape the internet in such a way to facilitate the market for virtual goods&#x2F; NFTs. Internet is no more just a market place, its an whole economy.&lt;&#x2F;p&gt;
 &lt;p&gt;Are domain names virtual goods? Oh my....I became the same thing i swore to destroy.&lt;&#x2F;p&gt;
 </description>
-        </item>
-        <item>
-            <title>Buy Now Pay Later</title>
-            <pubDate>Mon, 20 Dec 2021 00:00:00 +0000</pubDate>
-            <link>https://arjunyadav.xyz/blog/buy-now-pay-later/</link>
-            <guid>https://arjunyadav.xyz/blog/buy-now-pay-later/</guid>
-            <description>&lt;p&gt;Lately I&#x27;ve been getting lot of calls from my bank telling me to get a free credit card. Not only my bank but also the banks in which i don&#x27;t even have account are also offering me free credit card. And not only banks but also some new fancy companies have approached me for interest free virtual credit card.  For a moment i thought my country is turning into some welfare state where they are lending money to poor people for free. It happens often times in free market economy that the marketing department pitch the deal in such a way that it sounds like the company is literally giving stuff for free. They make it sound like the company doesn&#x27;t exist for profit motive but solely for social welfare.&lt;&#x2F;p&gt;
+      </item>
+      <item>
+          <title>Buy Now Pay Later</title>
+          <pubDate>Mon, 20 Dec 2021 00:00:00 +0000</pubDate>
+          <author>Unknown</author>
+          <link>https://arjunyadav.xyz/blog/buy-now-pay-later/</link>
+          <guid>https://arjunyadav.xyz/blog/buy-now-pay-later/</guid>
+          <description>&lt;p&gt;Lately I&#x27;ve been getting lot of calls from my bank telling me to get a free credit card. Not only my bank but also the banks in which i don&#x27;t even have account are also offering me free credit card. And not only banks but also some new fancy companies have approached me for interest free virtual credit card.  For a moment i thought my country is turning into some welfare state where they are lending money to poor people for free. It happens often times in free market economy that the marketing department pitch the deal in such a way that it sounds like the company is literally giving stuff for free. They make it sound like the company doesn&#x27;t exist for profit motive but solely for social welfare.&lt;&#x2F;p&gt;
 &lt;p&gt;Initially i didn&#x27;t thought much about it, but few days ago, i watched a BBC documentary on free credit providers. It turns out that the reason these companies don&#x27;t charge interest from the consumers is that the people who buy goods on credit are not the costumers of these credit companies but they are the product. The real costumers are the sellers. (Amazon etc.) So basically what these credit companies do is that they go to sellers (Amazon etc.) and pitch them something like this : &amp;quot;Hey ecommerce website, see this x research which is conducted by y university, it shows that when sellers provide interest free credit to their costumers, it increases their sales by 20%. We can help you in increasing your sales. we will provide interest free credit to your costumers and for that you only have to pay us 5% on every sale made through our credit service.&amp;quot;&lt;&#x2F;p&gt;
 &lt;p&gt;Ecommerce platform: &amp;quot;Nice!&amp;quot;&lt;&#x2F;p&gt;
 &lt;p&gt;It seems to be a win win situation for everyone at first sight. Consumers are happy that they are getting credit without interest, Sellers are happy that their sales are increasing, credit companies are happy that they are getting money from retailers.(or ecommerce platforms) umm...but, aren&#x27;t we missing something?....two things, we are missing two things. If we miss these two things we fail to see the suffering which is hiding in the plain sight.&lt;&#x2F;p&gt;
@@ -211,13 +237,14 @@
 &lt;p&gt;The people who buy things on credit will be the only winners in the long run. Ecommerce platforms and credit providers will only earn average revenue (no profit no loss). And people who refuse to buy things on credit will be the real losers.&lt;&#x2F;p&gt;
 &lt;p&gt;&lt;a href=&#x2F;pix&#x2F;buynowpaylater.png&gt;&lt;img class=resmid src=&quot;&#x2F;pix&#x2F;buynowpaylater.png&quot; alt=&quot;buynowpaylater&quot;&gt;&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
 </description>
-        </item>
-        <item>
-            <title>Living In The Simulation Paradise</title>
-            <pubDate>Wed, 15 Dec 2021 00:00:00 +0000</pubDate>
-            <link>https://arjunyadav.xyz/blog/living-in-the-simulation-paradise/</link>
-            <guid>https://arjunyadav.xyz/blog/living-in-the-simulation-paradise/</guid>
-            <description>&lt;html lang=&quot;en&quot;&gt;
+      </item>
+      <item>
+          <title>Living In The Simulation Paradise</title>
+          <pubDate>Wed, 15 Dec 2021 00:00:00 +0000</pubDate>
+          <author>Unknown</author>
+          <link>https://arjunyadav.xyz/blog/living-in-the-simulation-paradise/</link>
+          <guid>https://arjunyadav.xyz/blog/living-in-the-simulation-paradise/</guid>
+          <description>&lt;html lang=&quot;en&quot;&gt;
 &lt;body&gt;
 &lt;p&gt;What if we are living in a simulation. What if we all are just some characters in a video game, In which all the decisions which we think that we make (Deciding to drink water or choosing partner) are actually not made by us but by the person who is playing the video game. or maybe the simulation code from which our universe is made makes all the decisions. What if all the laws of nature are just the laws of a simulation code. 
 &lt;&#x2F;p&gt;
@@ -262,26 +289,28 @@
 &lt;&#x2F;body&gt;
 &lt;&#x2F;html&gt;
 </description>
-        </item>
-        <item>
-            <title>Ban In India</title>
-            <pubDate>Tue, 07 Dec 2021 00:00:00 +0000</pubDate>
-            <link>https://arjunyadav.xyz/blog/ban-in-india/</link>
-            <guid>https://arjunyadav.xyz/blog/ban-in-india/</guid>
-            <description>&lt;p&gt;To protect the easily exploitable consumers our Govt. banned Tiktok. Now it seems to be the turn of cryptocurrencies. Arguments are being made by people in defence of crypto currency ban. But as things are not yet quite clear in the bill. We are left with speculations and arguments. Just banning cryptocurrency doesn&#x27;t seems to be a viable solution.&lt;&#x2F;p&gt;
+      </item>
+      <item>
+          <title>Ban In India</title>
+          <pubDate>Tue, 07 Dec 2021 00:00:00 +0000</pubDate>
+          <author>Unknown</author>
+          <link>https://arjunyadav.xyz/blog/ban-in-india/</link>
+          <guid>https://arjunyadav.xyz/blog/ban-in-india/</guid>
+          <description>&lt;p&gt;To protect the easily exploitable consumers our Govt. banned Tiktok. Now it seems to be the turn of cryptocurrencies. Arguments are being made by people in defence of crypto currency ban. But as things are not yet quite clear in the bill. We are left with speculations and arguments. Just banning cryptocurrency doesn&#x27;t seems to be a viable solution.&lt;&#x2F;p&gt;
 &lt;p&gt;One argument is that there are just too many cryptocurrencies, but in order to become money (As a medium of exchange) uniformity is a necessity. Yes, this is true however in long run this argument is irrelevant because we know, Monopoly is the end of competition. Mr. Raghuram Rajan said &amp;quot;Out of 6000 odd cryptocurrencies only one or two best will survive.&amp;quot; Here we can learn from history that even in barter system, initially, there was lot of competition but in long run gold and silver came out as clear winners. we won&#x27;t be wrong predicting the same for cryptocurrencies.&lt;&#x2F;p&gt;
 &lt;p&gt;Another argument made is that the average investor in India is 24 years old, first time investor who is being lured by false higher rewards shown in the advertisements of crypto trading companies. As a natural consequence of this, Indian investors loose money, the lost money then goes out of India and reduces our currency reserves. Well, we all know at least one person who falls under this category. Unfortunately, there are (lot of) people in India who are an easy prey for crypto currency propaganda.(Advertisement) This is a chief argument made for crypto ban. But if we move our heads a bit we can see a similar phenomenon happening. The same 24 year old ignorant guy who is putting his money in cryptocurrency without understanding how it works is also investing in stock market without being able to even read a balance sheet. If cryptocurrency is being banned because average Indian investor is ignorant and easily exploitable then by this logic stock market should also be banned. Here i guess ban is not a viable solution to protect the ignorant and easily exploitable masses but our government must take stand to educate our investors so that they are able to make rational decisions. As the saying goes &amp;quot;Dear God don&#x27;t give us easy circumstances but make us strong enough so that we can conquer even the tough ones.&amp;quot;&lt;&#x2F;p&gt;
 &lt;p&gt;argument that banning foreign crypto giants will help our Indian home grown cryptos. Yes, it will help our &#x27;Made in India&#x27; cryptos, but for how long? lets imagine its 2040 and we have been successful at keeping foreign cryptocurrencies at bay. As we already know by that time there will be only one or two cryptocurrencies which will have a substantial global share in being used as a medium of exchange. At that point India will encounter two major problems: first, Indians won&#x27;t be able make international payments as in 2040 Indians won&#x27;t have reserves of the internationally standardized cryptocurrencies because they are banned in India. Secondly, if India at that point decides to open its markets for foreign cryptocurrencies, it will most probably disrupt the then established crypto market. If markets are opened in 2040 Indians may give higher preference to the currencies which are by then were able to establish themselves as international standard. As a result Indian crypto companies will suffer the most. In this way the time taken to open boarders for cryptocurrencies will be directly proportional to its consequences on Indians and Indian crypto currencies.&lt;&#x2F;p&gt;
 &lt;p&gt;Now comes the argument that because of the secure nature of cryptocurrencies it may be used by terrorists. As lot has already been said by others to counter this argument, i will try to protect myself from repeating them. But i would still say that evil or good nature of any technology strictly depends on the hands who use them. A knife can be used to cut an apple or cut a throat. Then ban knife too? If we ban all the technology which can be used by evil hands then wouldn&#x27;t India go back to stone age? (Even stones can also be used to harm others, ban them too?)&lt;&#x2F;p&gt;
 &lt;p&gt;Our respected experts at RBI have done their research and they have come up with a plan to regulate the cryptocurrency market. But until we see this bill in execution we won&#x27;t be able to see its real implications. Most of the arguments which are given seems to be unprepared excuses which hides the fact that the predominant reason for the ban is to keep in control the supply of medium of exchange in the country. Least we can do is to hope for the regulations to be liberal enough to prevent the unnecessary losses.&lt;&#x2F;p&gt;
 </description>
-        </item>
-        <item>
-            <title>Future Zucks Bro</title>
-            <pubDate>Sun, 21 Nov 2021 00:00:00 +0000</pubDate>
-            <link>https://arjunyadav.xyz/blog/future-zucks-bro/</link>
-            <guid>https://arjunyadav.xyz/blog/future-zucks-bro/</guid>
-            <description>&lt;p&gt;Everyone on internet has been talking about Meta and Metaverse since its idea was proposed by Zuckerberg. I think the general opinion of people on internet can be summerised this way: &amp;quot;The idea of metaverse looks like something from black mirror. Everyone knows its bad hence its just another bad decision made by Facebook.&amp;quot;&lt;&#x2F;p&gt;
+      </item>
+      <item>
+          <title>Future Zucks Bro</title>
+          <pubDate>Sun, 21 Nov 2021 00:00:00 +0000</pubDate>
+          <author>Unknown</author>
+          <link>https://arjunyadav.xyz/blog/future-zucks-bro/</link>
+          <guid>https://arjunyadav.xyz/blog/future-zucks-bro/</guid>
+          <description>&lt;p&gt;Everyone on internet has been talking about Meta and Metaverse since its idea was proposed by Zuckerberg. I think the general opinion of people on internet can be summerised this way: &amp;quot;The idea of metaverse looks like something from black mirror. Everyone knows its bad hence its just another bad decision made by Facebook.&amp;quot;&lt;&#x2F;p&gt;
 &lt;p&gt;I do agree with the first part that the idea of Meta does look like something from black mirror and is depressing. however, as far as second part is concerned, i think, Facebook actually made a right decision. At this point metaverse IS inevitable And most of the people who are criticizing Facebook WILL be in metaverse.&lt;&#x2F;p&gt;
 &lt;h3 id=&quot;why-metaverse-is-inevitable&quot;&gt;Why Metaverse is Inevitable&lt;&#x2F;h3&gt;
 &lt;p&gt;I remember reading an essay where the author claimed that when a species becomes more advanced it tends to focus its attention on finding shortcuts. What kind of shortcuts? We humans have reached a stage where we focus much of our attention on achieving things virtually rather than in real life. Why virtually? Because its easier. I quote : &amp;quot;Technology is fairly good at controlling external external reality to promote real biological fitness, but its even better at delivering fake fitness - subjective cues of survival and reproduction without real-world effects&amp;quot; further he says &amp;quot;...I think that aliens forget to send radio signals or colonise space because they&#x27;re too busy with runaway consumerism and virtual reality narcissism. Once they turn inwards to chase their shiny pennies of pleasure, they loose the cosmic plot&amp;quot;&lt;&#x2F;p&gt;
@@ -304,13 +333,14 @@ What i hear: &amp;quot;host your own cancer to free yourself from corporate owne
 &lt;h3 id=&quot;conclusion&quot;&gt;Conclusion&lt;&#x2F;h3&gt;
 &lt;p&gt;I think Zuck made a right decision by focusing his companies focus on metverse. The reason he was able to make such an prediction for future is that now we know a thing or two about the history of internet and connecting dots leads nowhere but to metaverse. It seems metaverse industry is inevitable. And Zuck&#x27;s willingness to be an early bird in this industry might beneficial for Facebook (Meta) that&#x27;s why i think future Zucks bro!&lt;&#x2F;p&gt;
 </description>
-        </item>
-        <item>
-            <title>Cool trick to install software via apt package manager</title>
-            <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
-            <link>https://arjunyadav.xyz/blog/cool-trick-to-install-software-via-apt-package-manager/</link>
-            <guid>https://arjunyadav.xyz/blog/cool-trick-to-install-software-via-apt-package-manager/</guid>
-            <description>&lt;html lang=&quot;en&quot;&gt;
+      </item>
+      <item>
+          <title>Cool trick to install software via apt package manager</title>
+          <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
+          <author>Unknown</author>
+          <link>https://arjunyadav.xyz/blog/cool-trick-to-install-software-via-apt-package-manager/</link>
+          <guid>https://arjunyadav.xyz/blog/cool-trick-to-install-software-via-apt-package-manager/</guid>
+          <description>&lt;html lang=&quot;en&quot;&gt;
 &lt;body&gt;
 &lt;p&gt;
 to install software via apt in debian and debian based distros you have to type &quot;sudo apt install foo&quot; however there are two problems with this:
@@ -349,13 +379,14 @@ you should have fzf installed in order to use it.
 &lt;&#x2F;body&gt;
 &lt;&#x2F;html&gt;
 </description>
-        </item>
-        <item>
-            <title>Melophile Society And its Future</title>
-            <pubDate>Wed, 27 Oct 2021 00:00:00 +0000</pubDate>
-            <link>https://arjunyadav.xyz/blog/melophile-society-and-its-future/</link>
-            <guid>https://arjunyadav.xyz/blog/melophile-society-and-its-future/</guid>
-            <description>&lt;p&gt;The Musical Revolution and its consequences have been a disaster for human race. Gone are the days of sophisticated lyrics and good voice. Junk lyrics with auto-tune voice is ruling the music market. This is the music revolution. You might find me ranting about these new age songs here but this is also true that there are way more people who intoxicate themselves with these type of junk songs as compared to the people who enjoy good old songs.&lt;&#x2F;p&gt;
+      </item>
+      <item>
+          <title>Melophile Society And its Future</title>
+          <pubDate>Wed, 27 Oct 2021 00:00:00 +0000</pubDate>
+          <author>Unknown</author>
+          <link>https://arjunyadav.xyz/blog/melophile-society-and-its-future/</link>
+          <guid>https://arjunyadav.xyz/blog/melophile-society-and-its-future/</guid>
+          <description>&lt;p&gt;The Musical Revolution and its consequences have been a disaster for human race. Gone are the days of sophisticated lyrics and good voice. Junk lyrics with auto-tune voice is ruling the music market. This is the music revolution. You might find me ranting about these new age songs here but this is also true that there are way more people who intoxicate themselves with these type of junk songs as compared to the people who enjoy good old songs.&lt;&#x2F;p&gt;
 &lt;p&gt;Generally we listen to music for its ability to give pleasure to our mind. As consuming music activates same part of brain similar to what is activated by eating food and taking &lt;a href=&quot;https:&#x2F;&#x2F;www.newsweek.com&#x2F;music-produces-pleasure-similarly-drugs-and-sex-553946&quot;&gt;drugs&lt;&#x2F;a&gt;. Not only for pleasure we might also consume music to escape from reality or just for nostalgia. Listing to music for escape from reality is enough to make one restrain from indulging too much into music. Apart from that the quality of music we consume is also degrading. Lets see in coming paragraph how.&lt;&#x2F;p&gt;
 &lt;p&gt;&lt;a href=&#x2F;pix&#x2F;doomermusic.jpg&gt;&lt;img class=resmid src=&quot;&#x2F;pix&#x2F;doomermusic.jpg&quot; alt=&quot;doomer&quot;&gt;&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
 &lt;h2 id=&quot;empty-calories-it-sounds-good-but-the-lyrics-are-meaningless&quot;&gt;Empty Calories (It sounds good but the lyrics are meaningless)&lt;&#x2F;h2&gt;
@@ -373,13 +404,14 @@ against any coercion of people. Hm, hm ... it’s a hellishly difficult
 necessity.&amp;quot;&lt;&#x2F;p&gt;
 &lt;p&gt;&lt;a href=&#x2F;pix&#x2F;gulag.jpg&gt;&lt;img class=resmid src=&quot;&#x2F;pix&#x2F;gulag.jpg&quot; alt=&quot;gulag&quot;&gt;&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
 </description>
-        </item>
-        <item>
-            <title>Review of Various Linux Distros</title>
-            <pubDate>Sun, 24 Oct 2021 00:00:00 +0000</pubDate>
-            <link>https://arjunyadav.xyz/blog/review-of-various-linux-distros/</link>
-            <guid>https://arjunyadav.xyz/blog/review-of-various-linux-distros/</guid>
-            <description>&lt;p&gt;If we go to Distrowatch we can find that there are hundreds of Linux distros listed there but at the end we can see that most of those Linux distros are more or less themed versions of three major Linux distributions i.e Arch, Debian and Fedora. Reviewing all of the distributions available on Distrowatch is not only time consuming but also irrelevant. Hence i will restrict myself with reviewing only the ones which i think are relevant.&lt;&#x2F;p&gt;
+      </item>
+      <item>
+          <title>Review of Various Linux Distros</title>
+          <pubDate>Sun, 24 Oct 2021 00:00:00 +0000</pubDate>
+          <author>Unknown</author>
+          <link>https://arjunyadav.xyz/blog/review-of-various-linux-distros/</link>
+          <guid>https://arjunyadav.xyz/blog/review-of-various-linux-distros/</guid>
+          <description>&lt;p&gt;If we go to Distrowatch we can find that there are hundreds of Linux distros listed there but at the end we can see that most of those Linux distros are more or less themed versions of three major Linux distributions i.e Arch, Debian and Fedora. Reviewing all of the distributions available on Distrowatch is not only time consuming but also irrelevant. Hence i will restrict myself with reviewing only the ones which i think are relevant.&lt;&#x2F;p&gt;
 &lt;h2 id=&quot;arch&quot;&gt;Arch&lt;&#x2F;h2&gt;
 &lt;p&gt;Arch is a rolling-release Distro which means whenever a new version of a package is released Arch users get it through instant updates. In Arch Linux, there are lot of updates, updates everywhere! Arch users are the first ones to get latest software in Linux world, but they are also the first ones to encounter the bugs. One thing which comes to the mind of many users when they start to use Arch is that they should&#x27;ve listened to the memes.&lt;&#x2F;p&gt;
 &lt;p&gt;Although in official repository, Arch has less packages availability than that of Debian. However to compensate that arch has its &#x27;Arch User Repository&#x27; (AUR) where the arch users submit the software compiled by them. Personally I&#x27;ve found that every proprietary software which is made to work on Linux is available in AUR. This is a big selling point of Arch Linux, you don&#x27;t have to go on different websites to download .deb and .rpm in order to install software on your machine. On Arch, for example if you want to install brave browser you just need to type &lt;code&gt;yay -S brave-bin&lt;&#x2F;code&gt; and that&#x27;s it Brave will be installed on your system. Contrary to that if you were using a Debian based distribution you would have to go through 3-4 step process to install brave!&lt;&#x2F;p&gt;
@@ -393,13 +425,14 @@ necessity.&amp;quot;&lt;&#x2F;p&gt;
 &lt;p&gt;Ubuntu is the windows of Linux world. It is the most hated one. But still i think in consumer market Ubuntu has played the biggest role in the success of Linux. Linux would have only being using by nerds in their parent&#x27;s basements if it was not for Ubuntu. On the surface you can say Ubuntu is based on Debian, but can you really recommend a new user to use Debian? That is the work done by Ubuntu devs to make &#x27;Linux for humans&#x27;.&lt;&#x2F;p&gt;
 &lt;p&gt;Yes there are some genuine concerns about ubuntu for example snaps etc. but hey, no one is forcing you to stick with ubuntu, now its no more 2010. Other distros have matured in providing a good consumer experience, just move to them if you don&#x27;t like snaps and the direction in which ubuntu is moving.&lt;&#x2F;p&gt;
 </description>
-        </item>
-        <item>
-            <title>Critique of Luke Smith&#x27;s Freedom</title>
-            <pubDate>Fri, 20 Aug 2021 00:00:00 +0000</pubDate>
-            <link>https://arjunyadav.xyz/blog/critique-of-luke-smith-s-freedom/</link>
-            <guid>https://arjunyadav.xyz/blog/critique-of-luke-smith-s-freedom/</guid>
-            <description>&lt;html lang=&quot;en&quot;&gt;
+      </item>
+      <item>
+          <title>Critique of Luke Smith&#x27;s Freedom</title>
+          <pubDate>Fri, 20 Aug 2021 00:00:00 +0000</pubDate>
+          <author>Unknown</author>
+          <link>https://arjunyadav.xyz/blog/critique-of-luke-smith-s-freedom/</link>
+          <guid>https://arjunyadav.xyz/blog/critique-of-luke-smith-s-freedom/</guid>
+          <description>&lt;html lang=&quot;en&quot;&gt;
 &lt;body&gt;
 &lt;p&gt;in his recent &lt;a href=&quot;https:&#x2F;&#x2F;lukesmith.xyz&#x2F;articles&#x2F;modern-freedom-means-being-a-slave-to-impulses&quot;&gt;work&lt;&#x2F;a&gt; Luke smith, while explaining freedom, writes:&lt;br&#x2F;&gt;
 &quot;Christians stated the classical view of freedom very clearly. Paul writes that all men are either &quot;slaves to Christ&quot; or &quot;slaves to sin.&quot; The modern man wants to retort that he does&#x27;t want to be a slave to anything, but wants to be his own master, but there is really no such thing.
@@ -452,13 +485,14 @@ can Luke smith&#x27;s bible tell how much McDonald consumption is good and how m
 &lt;&#x2F;body&gt;
 &lt;&#x2F;html&gt;
 </description>
-        </item>
-        <item>
-            <title>The Tiktok Want!</title>
-            <pubDate>Mon, 09 Aug 2021 00:00:00 +0000</pubDate>
-            <link>https://arjunyadav.xyz/blog/the-tiktok-want/</link>
-            <guid>https://arjunyadav.xyz/blog/the-tiktok-want/</guid>
-            <description>&lt;html lang=&quot;en&quot;&gt;
+      </item>
+      <item>
+          <title>The Tiktok Want!</title>
+          <pubDate>Mon, 09 Aug 2021 00:00:00 +0000</pubDate>
+          <author>Unknown</author>
+          <link>https://arjunyadav.xyz/blog/the-tiktok-want/</link>
+          <guid>https://arjunyadav.xyz/blog/the-tiktok-want/</guid>
+          <description>&lt;html lang=&quot;en&quot;&gt;
 &lt;body&gt;
 &lt;p&gt;it&#x27;s been almost a year since Indian government banned TikTok. what is interesting here is that tiktok was banned not only because of political reasons but also because of social reasons. people, especially the ones with power thought that tiktok is degenerating their youth. but these boomers forgot that it was the &#x27;social&#x27; who was responsible for the tiktok i.e it was the market which had a need for an app like tiktok. market needed an app which can provide easy to consume 15 seconds long videos which are full of stimulus and most importantly super easy to edit. tiktok fulfilled this need.&lt;br&#x2F;&gt;
 &lt;br&#x2F;&gt;
@@ -476,13 +510,14 @@ can Luke smith&#x27;s bible tell how much McDonald consumption is good and how m
 &lt;&#x2F;body&gt;
 &lt;&#x2F;html&gt;
 </description>
-        </item>
-        <item>
-            <title>Poisoning of The Mind</title>
-            <pubDate>Mon, 05 Jul 2021 00:00:00 +0000</pubDate>
-            <link>https://arjunyadav.xyz/blog/poisoning-of-the-mind/</link>
-            <guid>https://arjunyadav.xyz/blog/poisoning-of-the-mind/</guid>
-            <description>&lt;html lang=&quot;en&quot;&gt;
+      </item>
+      <item>
+          <title>Poisoning of The Mind</title>
+          <pubDate>Mon, 05 Jul 2021 00:00:00 +0000</pubDate>
+          <author>Unknown</author>
+          <link>https://arjunyadav.xyz/blog/poisoning-of-the-mind/</link>
+          <guid>https://arjunyadav.xyz/blog/poisoning-of-the-mind/</guid>
+          <description>&lt;html lang=&quot;en&quot;&gt;
 &lt;body&gt;
 &lt;p&gt;
 from books being the hobby of only rich people to mass printing, and from village halls to internet, a lot has been changed. 100 years ago the means of getting information were so less that the question was &quot;how to get information&quot;. and now an average man is surrounded by so many equipments of getting information that now the question is not &quot;how to get information&quot; but &quot;what information to get&quot;.
@@ -509,13 +544,14 @@ it is the skill of refraining which a man should learn now. thanks to technologi
 &lt;&#x2F;body&gt;
 &lt;&#x2F;html&gt;
 </description>
-        </item>
-        <item>
-            <title>So You Want To Buy a Dog?</title>
-            <pubDate>Tue, 15 Jun 2021 00:00:00 +0000</pubDate>
-            <link>https://arjunyadav.xyz/blog/so-you-want-to-buy-a-dog/</link>
-            <guid>https://arjunyadav.xyz/blog/so-you-want-to-buy-a-dog/</guid>
-            <description>&lt;html lang=&quot;en&quot;&gt;
+      </item>
+      <item>
+          <title>So You Want To Buy a Dog?</title>
+          <pubDate>Tue, 15 Jun 2021 00:00:00 +0000</pubDate>
+          <author>Unknown</author>
+          <link>https://arjunyadav.xyz/blog/so-you-want-to-buy-a-dog/</link>
+          <guid>https://arjunyadav.xyz/blog/so-you-want-to-buy-a-dog/</guid>
+          <description>&lt;html lang=&quot;en&quot;&gt;
 &lt;head&gt;
 &lt;body&gt;
 &lt;p style=&quot;margin-top: 1em&quot;&gt;dog lovers of the world, read my work. here i write my frustration about modern breding practices and idiot dog owners. i hope this work will help you in making better decison regarding dogs in future.&lt;&#x2F;p&gt;
@@ -612,13 +648,14 @@ trusted.&lt;&#x2F;p&gt;
 &lt;&#x2F;body&gt;
 &lt;&#x2F;html&gt;
 </description>
-        </item>
-        <item>
-            <title>sudo apt install soycial media</title>
-            <pubDate>Tue, 15 Jun 2021 00:00:00 +0000</pubDate>
-            <link>https://arjunyadav.xyz/blog/sudo-apt-install-soycial-media/</link>
-            <guid>https://arjunyadav.xyz/blog/sudo-apt-install-soycial-media/</guid>
-            <description>&lt;html lang=&quot;en&quot;&gt;
+      </item>
+      <item>
+          <title>sudo apt install soycial media</title>
+          <pubDate>Tue, 15 Jun 2021 00:00:00 +0000</pubDate>
+          <author>Unknown</author>
+          <link>https://arjunyadav.xyz/blog/sudo-apt-install-soycial-media/</link>
+          <guid>https://arjunyadav.xyz/blog/sudo-apt-install-soycial-media/</guid>
+          <description>&lt;html lang=&quot;en&quot;&gt;
 &lt;body&gt;
  &lt;p&gt;
  install soycial media they said, it will be easy they said....
@@ -654,13 +691,14 @@ cringekok wanted me to sacrifice of my brain&lt;&#x2F;p&gt;
 &lt;&#x2F;body&gt;
 &lt;&#x2F;html&gt;
 </description>
-        </item>
-        <item>
-            <title>Selling unfinished products is new normal</title>
-            <pubDate>Wed, 26 May 2021 00:00:00 +0000</pubDate>
-            <link>https://arjunyadav.xyz/blog/selling-unfinished-products-is-new-normal/</link>
-            <guid>https://arjunyadav.xyz/blog/selling-unfinished-products-is-new-normal/</guid>
-            <description>&lt;html lang=&quot;en&quot;&gt;
+      </item>
+      <item>
+          <title>Selling unfinished products is new normal</title>
+          <pubDate>Wed, 26 May 2021 00:00:00 +0000</pubDate>
+          <author>Unknown</author>
+          <link>https://arjunyadav.xyz/blog/selling-unfinished-products-is-new-normal/</link>
+          <guid>https://arjunyadav.xyz/blog/selling-unfinished-products-is-new-normal/</guid>
+          <description>&lt;html lang=&quot;en&quot;&gt;
 &lt;body&gt;
 &lt;p&gt;recently i decided to buy a new cycle for me. i choose to buy it from decathlon. the cheapest one. they provide good quality cycles, at least that&#x27;s what everyone said. so after deciding what i want to buy and from whom, i went to their store. rode it for a while in the store to check if everything is working fine before paying them. everything was fine, almost. there were parts missing. a lot of parts were missing from that cycle, no mudguard, there was option for water bottle holder but i can see no holder attached to it. no bell, not even cycle stand can be found on it! i thought they will assemble everything at checkout service. that these are just unfinished products. was i wrong? i was.
 &lt;&#x2F;p&gt;
@@ -719,6 +757,6 @@ the unfinished product (cycle) is just a trap. the company will earn surplus pro
 &lt;&#x2F;body&gt;
 &lt;&#x2F;html&gt;
 </description>
-        </item>
+      </item>
     </channel>
 </rss>
