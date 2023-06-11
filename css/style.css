@@ -74,7 +74,7 @@ li {
     margin-left: 2%;
 }
 
-.resright, .resmid {
+.resright, .resmid .resleft{
     max-height: 300px ;
     max-width: 90% ;
     margin: auto ;
@@ -91,10 +91,28 @@ li {
 		max-height: 300px ;
 		max-width: 300px ;
 	}
-
 	.resmid {
+		display: block;
+		margin-left: auto;
+		margin-right: auto;
+		max-width: 70%;
+		height: auto;
+	  }
+	  
+	  /* Media query for screens with a maximum width of 768px */
+	  @media (max-width: 768px) {
+		.resmid {
+		  max-width: 100%;
+		  max-height: 300px;
+		}
+	  }
+	  
+	.resleft{
+		display: block ;
+		float: left;
+		padding: 20px ;
+		clear: both ;
 		max-height: 300px ;
 		max-width: 300px ;
 	}
-
 
