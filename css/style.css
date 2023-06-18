@@ -116,3 +116,9 @@ li {
 		max-width: 300px ;
 	}
 
+@media (max-width: 480px) {
+  .resmid {
+    max-width: 100%;
+  }
+}
+
