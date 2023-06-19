@@ -100,10 +100,10 @@ li {
 	  }
 	  
 	  /* Media query for screens with a maximum width of 768px */
-	  @media (max-width: 480px) {
+	  @media (max-width: 768px) {
 		.resmid {
-		  max-width: 70%;
-		  max-height: 200px;
+		  max-width: 100%;
+		  max-height: 300px;
 		}
 	  }
 	  
