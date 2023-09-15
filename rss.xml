@@ -7,7 +7,19 @@
       <generator>Zola</generator>
       <language>en</language>
       <atom:link href="https://arjunyadav.xyz/rss.xml" rel="self" type="application/rss+xml"/>
-      <lastBuildDate>Thu, 31 Aug 2023 00:00:00 +0000</lastBuildDate>
+      <lastBuildDate>Sat, 16 Sep 2023 00:00:00 +0000</lastBuildDate>
+      <item>
+          <title>SPCS: Stock Price Comparison Script</title>
+          <pubDate>Sat, 16 Sep 2023 00:00:00 +0000</pubDate>
+          <author>Unknown</author>
+          <link>https://arjunyadav.xyz/blog/spcs/</link>
+          <guid>https://arjunyadav.xyz/blog/spcs/</guid>
+          <description>&lt;p&gt;I am writing this just to share that I have written one &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;arjungrad&#x2F;SPCS&quot; target=&quot;_blank&quot;&gt;R script&lt;&#x2F;a&gt; which let&#x27;s you compare stock prices of multiple shares using a chart. The name of the script is SPCS (Stock Price Comparison Script). Now there is not much ground breaking in the script. However, It&#x27;s ability to use quantmod library for more than one share and it&#x27;s ability to plot chart from the resulting data is in my opinion a good start for a useful project.&lt;&#x2F;p&gt;
+&lt;p&gt;I don&#x27;t see much need to go deep about it on this page. Information about the usage of the script and the code will be added to the github page. Anyways, I expect to add much more to that. It&#x27;s still a kind of beta.&lt;&#x2F;p&gt;
+&lt;p&gt;But still I must share one picture of the chart produced by the script:&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img class=resmid src=&quot;&#x2F;pix&#x2F;2023&#x2F;Rplot.png&quot; alt=&quot;&quot; width=&quot;100%&quot; height=&quot;auto&quot;&gt;&lt;&#x2F;img&gt;&lt;&#x2F;p&gt;
+</description>
+      </item>
       <item>
           <title>China is throwing a steel party!</title>
           <pubDate>Thu, 31 Aug 2023 00:00:00 +0000</pubDate>
