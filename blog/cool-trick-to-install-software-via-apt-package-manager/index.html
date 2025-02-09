@@ -33,7 +33,7 @@ to install software via apt in debian and debian based distros you have to type 
 1- you have to know the exact name of the package you want to install
 <br/>
 <br/>
-<p>2- you have to type &quot;sudo apt install foo&quot; which is somewhat long.
+<p>2- you have to type "sudo apt install foo" which is somewhat long.
 <br/>
 <br/>
 there is a cool trick which someone posted on reddit.(and i can't remember the exact source at this moment)
@@ -42,13 +42,13 @@ there is a cool trick which someone posted on reddit.(and i can't remember the e
 <p>paste this code in terminal:
 <br/>
 <br/>
-<code> apt-cache search &quot;&quot; | sort | cut --delimiter &quot; &quot; --fields 1 | fzf --multi --cycle --reverse --preview &quot;apt-cache show {1}&quot; --preview-window=:57%:wrap:rounded:hidden --bind=space:toggle-preview | xargs -r sudo apt install -y </code>
+<code> apt-cache search "" | sort | cut --delimiter " " --fields 1 | fzf --multi --cycle --reverse --preview "apt-cache show {1}" --preview-window=:57%:wrap:rounded:hidden --bind=space:toggle-preview | xargs -r sudo apt install -y </code>
 <br/>
 <br/>
 <a href=/pix/fapt.png><img class=resmid src="/pix/fapt.png" alt="fapt"></a>
 <br/>
 </br></p>
-<p>(ofcourse you can make a simple script or make alias of this big command to make it short) 
+<p>(ofcourse you can make a simple script or make alias of this big command to make it short)
 <br/>
 <br/>
 technically he just added apt repository with fuzzy finder, but no one had ever thought of doing this simple thing, and that's why i'm thankful to the guy who originally posted this on reddit.</p>
